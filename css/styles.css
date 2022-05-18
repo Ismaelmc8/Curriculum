@@ -33,6 +33,7 @@ body {
 p {
     color: #858585;
 	line-height:22px;
+
 }
 .white{
 	background:#fff;
@@ -880,7 +881,7 @@ body {
 footer {
     border-top: 1px solid #e5e5e5;
     padding: 45px 0;
-    background: #fff;
+    background: #FBEED5;
 }
 
 .social a:hover {
@@ -1126,4 +1127,11 @@ footer {
         -ms-user-select: none;
         user-select: none;
         -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    }
+
+    .grey{
+        color: grey;
+    }
+    #education{
+        background-color: white;
     }
