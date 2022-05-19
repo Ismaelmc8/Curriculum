@@ -150,9 +150,7 @@ margin: 4px;
 margin: 0;
 background: transparent !important;
 }
-    .navbar-inverse .navbar-toggle .icon-bar {
-        /*background-color: #A13838;*/
-    }
+    
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
         background: #A13838;
@@ -171,36 +169,9 @@ background: transparent !important;
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
     color: orange;
 }
-	
-.navbar-toggle {
-}
-/*.carousel-inner*/
-#myCarousel {
-    margin-top: 50px;
-    border-bottom: 4px solid #A13838;
-}
-
-.carousel-inner > .item {
-}
 
 
-.actionPanel {
-    padding: 25px 0;
-    background: #A13838;
-}
 
-    .actionPanel h3 {
-        margin: 0px;
-    }
-
-.circle {
-    background: #A13838;
-    height: 60px;
-    width: 60px;
-    border-radius: 35px;
-    color: #fff;
-    line-height: 60px !important;
-}
 /*----Nav ----*/
 .header .navbar-brand {
     float: left;
@@ -595,8 +566,7 @@ display: inherit;
     padding-right: 8%;
 }
 
-.grid .grid-item {
-}
+
 
 .grid .text-content h5 {
     font-weight: bold;
